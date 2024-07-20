@@ -1,6 +1,7 @@
+# frozen_string_literal: true
+
 # Real apps have several models
 # Patient is one of our models
-
 class Patient
   attr_reader :name, :cured
 
